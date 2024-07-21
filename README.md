@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SRINITHINGANESH</h1>
 <h3 align="center">A Passionate Fullstack Developer From India</h3>
 - 🌱 I’m currently learning DSA
-- 💻 I’m looking to collaborate with Game developers
+
 
 - 💬 Ask me about **C#, ASP.Net Core, MVC, LINQ, SQL**
 - ⚡ Fun fact **By 2025, it's estimated that 80% of enterprises will have shut down their traditional data centers, moving to a more agile and cost-effective cloud infrastructure**
