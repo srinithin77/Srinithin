@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm SRINITHINGANESH</h1>
 
-<h3 align="center">A Passionate Fullstack Developer From India</h3>
+<h3 align="center">An Enthusiastic Fullstack Developer Based in India</h3>
 
 
 
-- 💬 Ask me about **Web Development, Game Development, C#, Asp.net core, MVC, Entitycore**
+
+
+- 💬 Ask me about **Web Development, Game Development, C#, Asp.net core, MVC, EF Core**
 
 - 🎮 I’m looking to collaborate with VR/AR game developers
 
