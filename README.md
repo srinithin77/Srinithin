@@ -5,10 +5,9 @@
 
 
 > [!IMPORTANT]
-> 🚀 Open to work
+>🚀 Open to work
 
 
-> [!ABOUT ME]
 
 - 💬 Ask me about **Web Development, Game Development, C#, Asp.net core, MVC, EF Core**
 
