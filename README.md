@@ -1,4 +1,5 @@
-# Srinithin
+# Welcome
+
 <h1 align="center">Hi 👋, I'm SRINITHINGANESH</h1>
 <h3 align="center">A Passionate Fullstack Developer From India</h3>
 - 🌱 I’m currently learning DSA
