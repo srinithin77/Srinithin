@@ -8,7 +8,7 @@
 > 🚀 Open to work
 
 
-> [!About Me]
+> [About Me]
 
 > - 💬 Ask me about **Web Development, Game Development, C#, Asp.net core, MVC, EF Core**
 
