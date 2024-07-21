@@ -8,13 +8,13 @@
 > 🚀 Open to work
 
 
-> [About Me]
+> [!ABOUT ME]
 
-> - 💬 Ask me about **Web Development, Game Development, C#, Asp.net core, MVC, EF Core**
+- 💬 Ask me about **Web Development, Game Development, C#, Asp.net core, MVC, EF Core**
 
-> - 🎮 I’m looking to collaborate with VR/AR game developers
+ - 🎮 I’m looking to collaborate with VR/AR game developers
 
-> - 🌱 I’m currently learning DSA
+ - 🌱 I’m currently learning DSA
 
 
 
